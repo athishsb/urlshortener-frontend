@@ -1,5 +1,5 @@
 //backend URL
-export const BASE_URL = "http://localhost:3000";
+export const BASE_URL = "https://urlshortener-backend-wcgz.onrender.com";
 
 import axios from "axios";
 
